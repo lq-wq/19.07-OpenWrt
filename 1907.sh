@@ -31,6 +31,7 @@ git clone https://github.com/jerrykuku/lua-maxminddb.git  #git lua-maxminddb Hel
 git clone https://github.com/jerrykuku/luci-app-vssr.git  #Hello World
 git clone https://github.com/kenzok8/openwrt-packages.git  #kenzok8 openwrt-packages
 git clone https://github.com/linkease/ddnsto-openwrt.git  #ddnsto内网穿透
+git clone https://github.com/tsl0922/ttyd.git  #TTYD终端
 
 
 #lede的ShadowSocksR Plus+出国软件（19.07源码自带passwall出国软件）
