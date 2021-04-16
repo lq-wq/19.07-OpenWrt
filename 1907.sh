@@ -27,6 +27,10 @@ git clone https://github.com/frainzy1477/luci-app-clash package/luci-app-clash  
 git clone https://github.com/tty228/luci-app-serverchan package/luci-app-serverchan  #微信推送
 git clone -b lede https://github.com/pymumu/luci-app-smartdns.git package/luci-app-smartdns  #smartdns DNS加速
 git clone https://github.com/garypang13/luci-app-eqos package/luci-app-eqos  #内网IP限速工具
+git clone https://github.com/jerrykuku/lua-maxminddb.git  #git lua-maxminddb Hello World依赖
+git clone https://github.com/jerrykuku/luci-app-vssr.git  #Hello World
+git clone https://github.com/kenzok8/openwrt-packages.git  #kenzok8 openwrt-packages
+git clone https://github.com/linkease/ddnsto-openwrt.git  #ddnsto内网穿透
 
 
 #lede的ShadowSocksR Plus+出国软件（19.07源码自带passwall出国软件）
